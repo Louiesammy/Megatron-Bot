@@ -24,7 +24,7 @@ Contributions to Santan-md are welcome! if you have ideas for new features, impr
 
 Santan-md is released under the [MIT License](https://opensource.org/licenses/MIT).
 
-Enjoy the diverse features of the Megatron-Bot to enhance your conversations and make your WhatsApp experience more interesting!
+Enjoy the diverse features of the Santan-md to enhance your conversations and make your WhatsApp experience more interesting!
 
 ## Developer:
 
